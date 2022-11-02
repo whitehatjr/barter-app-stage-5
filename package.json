@@ -8,7 +8,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "^41.0.0",
+    "expo": "^46.0.16",
     "firebase": "8.2.3",
     "lottie-react-native": "3.5.0",
     "react": "16.13.1",
